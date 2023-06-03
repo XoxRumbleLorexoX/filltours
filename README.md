@@ -1,3 +1,7 @@
+# A template app for firebase & google sign in for image/video upload 
+![Before Signing In](src/firstpage.png)
+![After Signing In](src/secondpage.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
